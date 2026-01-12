@@ -14,13 +14,15 @@ Se ha puesto en practica la programación orientada a objetos, empleando clases,
 Estructura del proyecto:
 ```text
 /C007_Concesionario1_0
-  ├─ Cliente.java
-  ├─ Coche.java
-  ├─ Concesionario.java
-  ├─ Main.java
-  ├─ Moto.java
-  ├─ Notificable.java
-  ├─ Persona.java
-  ├─ Repostable.java
-  ├─ Trabajador.java
-  └─ Vehiculo.java
+  ├─ src
+  |  ├─ Cliente.java
+  |  ├─ Coche.java
+  |  ├─ Concesionario.java
+  |  ├─ Main.java
+  |  ├─ Moto.java
+  |  ├─ Notificable.java
+  |  ├─ Persona.java
+  |  ├─ Repostable.java
+  |  ├─ Trabajador.java
+  |  └─ Vehiculo.java
+  └─ README.md
